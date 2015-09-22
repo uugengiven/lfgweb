@@ -50,13 +50,13 @@
     {
         "image": "drew.jpg", 
         "name": "Drew", 
-        "info": "Drew will come in and do your network working, only to have it all changed by Matt.",
+        "info": "Drew will come in and do your network work, only to have it all changed by Matt.",
         "game": "Battlefield, WoW, Heroes of the Storm, League of Legends, Artemis"
     },
     {
         "image": "matt.jpg", 
         "name": "Matt", 
-        "info": "Matt will come in and do your network working, only to have it all changed by Drew."
+        "info": "Matt will come in and do your network work, only to have it all changed by Drew."
     },    {
         "image": "zack.jpg", 
         "name": "Zack",
